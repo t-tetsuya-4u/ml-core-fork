@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+import matplotlb.pyplot as plt
 
 class LinearRegressor:
     """
